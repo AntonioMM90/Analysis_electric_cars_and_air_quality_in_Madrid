@@ -1,0 +1,23 @@
+Codigo,Magnitud,Abreviatura o fórmula,Unidad medida
+1,Dióxido de azufre,SO2,µg/m3
+6,Monóxido de carbono,CO,mg/m3
+7,Monóxido de nitrógeno,NO,µg/m3
+8,Dióxido de nitrógeno,NO2,µg/m3
+9,"Partículas en suspensión <2,5µm",PM2.5,µg/m3
+10,Partículas en suspensión <10µm,PM10,µg/m3
+12,Óxidos de nitrógeno totales,NOX,µg/m3 NO2
+14,Ozono,O3,µg/m3
+17,Arsenico (pm10),As,ng/m3
+19,Plomo (pm10),Pb,µg/m3
+27,Benzo(a)pireno (pm10),BAP,ng/m3
+28,Cadmio (pm10),Cd,ng/m3
+30,Benceno,C6H6,µg/m3
+62,Níquel (pm10),NI,ng/m3
+20,Tolueno ,TOL ,μg/m3 
+35,Etilbenceno ,EBE ,μg/m3 
+37,Metaxileno ,MXY ,μg/m3 
+38,Paraxileno ,PXY ,μg/m3 
+39,Ortoxileno ,OXY ,μg/m3 
+42,Hidrocarburos totales (hexano) ,TCH ,mg/m3 
+43,Metano ,CH4 ,mg/m3 
+44,Hidrocarburos no metánicos (hexano) ,NMHC ,mg/m3 
